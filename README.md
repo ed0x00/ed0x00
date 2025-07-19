@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sh1bui
+- 👋 Hi, I’m @ed0x
 - 👀 I’m interested in Offensive Security
 - 🌱 I’m currently learning PenTest & RedTeaming
 - 💞️ I’m looking to collaborate on awesome projects
