@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning PenTest & RedTeaming
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me linkedin.com/in/enrico-dolce/
+- 🔗 Visit https://ed0x00.github.io/
+- 📰 Go on secnews.it for daily cybersec news
 
 <!---
-sh1bui/sh1bui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ed0x00/ed0x00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
