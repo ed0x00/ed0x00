@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PenTest & RedTeaming
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me linkedin.com/in/enrico-dolce/
-- 🔗 Visit [ed0x00.github.io](https://ed0x00.github.io/)
+- 🔗 Visit [ed0x00.netninja.it](https://ed0x00.netninja.it/)
 - 📰 Go on [secnews.it](https://secnews.it/) for daily cybersec news
 
 <!---
